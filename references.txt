@@ -1,0 +1,3 @@
+pip install selenium
+pip install chromium-chromedriver
+pip install google_colab_selenium
